@@ -1,0 +1,14 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="220" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5DE8A"/>
+      <stop offset="1" stop-color="#B88A22"/>
+    </linearGradient>
+  </defs>
+  <circle cx="110" cy="110" r="104" fill="#053246" stroke="url(#gold)" stroke-width="8"/>
+  <path d="M66 123L110 84L154 123" stroke="url(#gold)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78 120V149H142V120" stroke="url(#gold)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M101 149V130H119V149" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"/>
+  <text x="110" y="55" text-anchor="middle" fill="url(#gold)" font-size="26" font-family="Arial" font-weight="700">HEAVEN</text>
+  <text x="110" y="188" text-anchor="middle" fill="url(#gold)" font-size="26" font-family="Arial" font-weight="700">REALTY</text>
+</svg>
